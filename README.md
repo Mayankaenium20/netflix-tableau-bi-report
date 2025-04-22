@@ -36,10 +36,6 @@ The visuals offer a clear perspective on how Netflix’s global library has evol
 
 Originally sourced from: [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-## Preview
-
-_A screenshot or link to the published dashboard can go here._
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
