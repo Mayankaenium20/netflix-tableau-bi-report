@@ -29,7 +29,7 @@ The visuals offer a clear perspective on how Netflix’s global library has evol
 ## Getting Started
 
 1. Download the Tableau workbook (`.twbx`) file.  
-2. Open it in [Tableau Public](https://public.tableau.com/).  
+2. Open it in [Tableau Public](https://public.tableau.com/app/discover).  
 3. Interact with the dashboard or publish it online.  
 
 ## Dataset
